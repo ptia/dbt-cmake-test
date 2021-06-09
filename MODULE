@@ -1,0 +1,6 @@
+dependencies:
+- name: dbt-rules
+  url: git@github.com:daedaleanai/dbt-rules.git
+  version:
+    rev: master
+    hash: 0465f3a55c77690f2a10a536280959081e1b6b88
